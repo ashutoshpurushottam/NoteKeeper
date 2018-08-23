@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Note Keeper</string>
+    <string name="make_note_label">Make Note</string>
+</resources>
